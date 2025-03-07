@@ -22,3 +22,64 @@ header h1 {
     font-size: 3rem;
     margin: 0;
 }
+
+header p {
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.song-lyrics {
+    background-color: #29295840;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(124, 113, 197, 0.1);
+}
+
+.song-lyrics p {
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.about-song {
+    background-color: #29295840;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-song p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.about-artist {
+    background-color: #29295840;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(219, 12, 12, 0.1);
+}
+
+.about-artist p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #29295840;
+    color: rgb(202, 133, 30);
+    padding: 20px;
+    text-align: center;
+}
+
